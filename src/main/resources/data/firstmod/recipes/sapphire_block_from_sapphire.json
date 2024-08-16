@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "liminalrealm:sapphire"
+    }
+  },
+  "result": {
+    "item": "liminalrealm:sapphire_block"
+  }
+}
